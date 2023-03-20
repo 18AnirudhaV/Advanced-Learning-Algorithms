@@ -17,9 +17,13 @@ ALL FILES BELONG TO THE COURSE (by DeepLearning.AI & Stanford University)
 - C2_W2_Multiclass_TF.ipynb
 - C2_W2_Relu.ipynb
 - C2_W2_SoftMax.ipynb
+- C2_W3_Lab_01_Model_Evaluation_and_Selection.ipynb
+- C2_W3_Lab_02_Diagnosing_Bias_and_Variance.ipynb
 
 ### All these files are Assignments and are graded:
 - C2_W1_Assignment.ipynb
   - Grade: 100/100
 - C2_W2_Assignment.ipynb
+  - Grade: 100/100
+- C2_W3_Assignment.ipynb
   - Grade: 100/100
