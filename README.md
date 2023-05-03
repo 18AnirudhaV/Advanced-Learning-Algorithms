@@ -1,9 +1,20 @@
 # Advanced-Learning-Algorithms
+This is Course 2 of 3 in the Machine Learning Specialization:
+
 https://www.coursera.org/learn/advanced-learning-algorithms/
 
-This is Course 2 of 3 in the Machine Learning Specialization
-
 ALL FILES BELONG TO THE COURSE (by DeepLearning.AI & Stanford University)
+
+<object data="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf">
+        <p>Please click the Coursera Certificate PDF link to view it: <a href="https://github.com/18AnirudhaV/Advanced-Learning-Algorithms/blob/main/_Coursera_Certificate_ALA.pdf">View PDF</a> ~ Also availableon my LinkedIn: https://www.linkedin.com/in/vermaa/.</p>
+    </embed>
+</object>
+
+Course 1 of 3 in the Machine Learning Specialization: https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification
+
+Course 3 of 3 in the Machine Learning Specialization: https://github.com/18AnirudhaV/Unsupervised-Learning-Recommenders-Reinforcement-Learning
+
 
 ## File Descriptions:
 ### Certificate:
