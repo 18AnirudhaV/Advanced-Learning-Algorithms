@@ -5,6 +5,12 @@ https://www.coursera.org/learn/advanced-learning-algorithms/
 
 ALL FILES BELONG TO THE COURSE (by DeepLearning.AI & Stanford University)
 
+Summary: Advanced Learning Algorithms
+- Neural Networks
+- Decision Trees
+- Advice for ML
+
+
 <object data="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/18AnirudhaV/Supervised-Machine-Learning-Regression-and-Classification/blob/main/_Coursera_Certificate.pdf">
         <p>Please click the Coursera Certificate PDF link to view it: <a href="https://github.com/18AnirudhaV/Advanced-Learning-Algorithms/blob/main/_Coursera_Certificate_ALA.pdf">View PDF</a> ~ Also availableon my LinkedIn: https://www.linkedin.com/in/vermaa/.</p>
